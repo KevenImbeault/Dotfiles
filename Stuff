@@ -1,0 +1,33 @@
+#OS
+Manjaro - KDE
+
+#Application Style
+Kvantum-dark
+
+#Kvantum theme
+Fluent Dark : https://github.com/Luwx/Fluent-kvantum
+
+#Window Decorations
+McConceptX Aurorae Theme : https://store.kde.org/p/1373642/
+                           https://github.com/yeyushengfan258/McConceptX-kde
+                           
+#Colors
+Inverse-dark : https://store.kde.org/p/1354172/
+               https://github.com/yeyushengfan258/Inverse-dark-kde
+               
+#Plasma Theme
+Aritim-Dark [Flat Blur] : https://store.kde.org/p/1309107/
+                          https://github.com/Mrcuve0/Aritim-Dark/tree/master/KDE/plasmaTheme/Aritim-Dark-Flat-Blur
+
+#Icons
+Zafiro Icons Blue : https://store.kde.org/p/1209330/
+                    https://github.com/zayronxio/Zafiro-icons
+           
+#Dock
+Latte-Dock
+           
+#Spotify Daemon
+Spotifyd
+
+#Spotify
+Spotify-tui
