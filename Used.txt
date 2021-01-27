@@ -1,0 +1,13 @@
+-- OS --
+Manjaro Linux (Arch based) with KDE Plasma
+
+-- Terminal --
+Kitty with Afterglow theme
+
+-- Shell --
+Oh-My-Zsh with Ys theme and a custom config (included in this repo)
+
+-- Git client --
+Git in shell
+Gitkraken
+Git Cola (Currently testing) 
