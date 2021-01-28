@@ -10,4 +10,17 @@ Oh-My-Zsh with Ys theme and a custom config (included in this repo)
 -- Git client --
 Git in shell
 Gitkraken
-Git Cola (Currently testing) 
+
+-- Browser --
+Firefox with
+    uBlock Origin
+
+
+-- CURRENTLY TESTING --
+Thunderbird
+Git Cola     
+
+-- TO DO --
+More in depth config of Kitty
+Modify zsh/Kitty color schemes
+
