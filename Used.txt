@@ -15,6 +15,27 @@ Gitkraken
 Firefox with
     uBlock Origin
 
+-- Global theme --
+Neonyt-Global
+https://store.kde.org/p/1463739
+
+-- Plasma Style --
+Reversal-dark
+https://store.kde.org/p/1471821
+
+-- Colors --
+Reversal-dark
+https://store.kde.org/p/1471816
+
+-- Window Decorations --
+Sweet-Mars
+https://store.kde.org/p/1393497
+
+-- Application Style --
+Breeze
+
+-- Icons --
+Breeze Chameleon Dark
 
 -- CURRENTLY TESTING --
 Thunderbird
